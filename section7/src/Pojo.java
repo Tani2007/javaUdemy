@@ -4,4 +4,6 @@ public class Pojo {
     //todo it usually has no other way or very few methods,other than getter and setters for the instance fields .
     //!it is generally used to write data and read data from/to database.
     //? see example in Student class.
+
+    //? But records are better than POJO.
 }
